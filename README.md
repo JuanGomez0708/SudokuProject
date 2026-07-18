@@ -9,4 +9,4 @@ Resources: archivos fxml para la IU del juego.
 
 AUTORES
 Juan Pablo Gomez Martinez 2518949
-Juan Camilo Valverde 
+Juan Camilo Valverde 2536682
