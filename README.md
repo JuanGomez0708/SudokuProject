@@ -10,3 +10,7 @@ Resources: archivos fxml para la IU del juego.
 AUTORES
 Juan Pablo Gomez Martinez 2518949
 Juan Camilo Valverde 2536682
+
+
+MAVEN FUNCIONAMIENTO JUEGO
+.\mvnw.cmd javafx:run
